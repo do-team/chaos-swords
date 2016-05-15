@@ -237,8 +237,6 @@ function init() {
 	reset();
 	main();
 
-//	test();
-
 }
 
 
